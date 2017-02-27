@@ -18,17 +18,18 @@ Of share tokens, operations are executed immediately
 * Effectiveness.
 In the execution does not depend on intermediaries or third parties. 
 
-*Confidentiality. 
+* Confidentiality. 
 In relation to the ownership of the share tokens, that is to say both Banco Sabadell and the competent authorities may have access to information related to ownership and control, which makes it possible to comply with the KYC before the authorities and remain confidential to third parties.
 
 
-*Compliance.
+* Compliance.
 Easy access to information to comply with notifications, authorizations or requirements of the competent authorities.
 
 ##Original repositories
 
-*Contracts: https://github.com/AtrauraBlockchain/sharetoken
-*Website: https://github.com/AtrauraBlockchain/ShareToken-Front
+* Contracts: https://github.com/AtrauraBlockchain/sharetoken
+
+* Website: https://github.com/AtrauraBlockchain/ShareToken-Front
 
 ##Team Members
 
