@@ -1,0 +1,123 @@
+/* GENERAL */
+h2{
+    font-size: 14px;
+}
+
+hr{
+    margin-top: 70px;
+}
+
+.text-center{
+    text-align: center;
+}
+.row{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.col{
+    padding: 0px;
+}
+
+.hover-none:hover{
+    background-color: transparent !important;
+}
+
+.big-font{
+    font-size: 42px;
+}
+
+.gap{
+    margin-top: 10px;
+}
+
+.big-gap{
+    margin-top: 50px;
+}
+
+.btn-bseh{
+    background-color: #F50057 !important;
+}
+
+.center-box{
+    max-width: 800px;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+
+}
+
+/* HEADER */
+header nav{
+    background-color: #4990E2;
+}
+
+nav a.button-collapse {
+    display: block !important;
+}
+
+#slide-out{
+    background-color: #4990E2;
+}
+
+#slide-out li a{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+#slide-out li.active, #slide-out li:hover{
+    background-color: #152B45;
+}
+
+.side-nav li > a > i{
+    color: #fff !important;
+}
+
+.brand-logo{
+    font-size: 20px;
+}
+
+.logo-small{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+    height: 200px;
+}
+
+
+
+/* SHAREHOLDER */
+
+.create-shareholder .btn{
+
+    display: block;
+    margin: 0 auto;
+
+}
+
+.create-shareholder i{
+    font-size: 100px;
+    margin-bottom: 20px;
+    display: block;
+    color: #000;
+    text-align: center;
+}
+
+.delete-shareholder .btn{
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* CREATE SHAREHOLDER */
+.legal-info .btn {
+    display: block;
+    margin: 0 auto;
+}
+
+/* TRANSFER TOKEN */
+.transfer-token .btn{
+    margin: 0 auto;
+    display: block;
+}
