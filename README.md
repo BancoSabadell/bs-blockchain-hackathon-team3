@@ -32,8 +32,8 @@ Easy access to information to comply with notifications, authorizations or requi
 
 ##Team Members
 
-*Astrid Baldiserra: https://www.linkedin.com/in/astrid-baldissera-805b4b20/
-*Jordi Baylina: https://www.linkedin.com/in/jbaylina/es/
-*David García: https://www.linkedin.com/in/davidgarciairuiz
-*Isabel García: https://www.linkedin.com/in/isabelgarciaperezdesign
-*Maria Lasala Veiga: https://www.linkedin.com/in/mar%C3%ADa-lasala-veiga-30695768/
+* Astrid Baldiserra: https://www.linkedin.com/in/astrid-baldissera-805b4b20/
+* Jordi Baylina: https://www.linkedin.com/in/jbaylina/es/
+* David García: https://www.linkedin.com/in/davidgarciairuiz
+* Isabel García: https://www.linkedin.com/in/isabelgarciaperezdesign
+* Maria Lasala Veiga: https://www.linkedin.com/in/mar%C3%ADa-lasala-veiga-30695768/
