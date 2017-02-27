@@ -1,4 +1,8 @@
+Disclamer: The code has been generated during a 8 hours hackathon
+
+
 #Share -Tokens exchange on the Blockchain
+
 
 We have created smart contracts that allows shareholders of a listed corporation to transfer their shares on blockchain.
 
